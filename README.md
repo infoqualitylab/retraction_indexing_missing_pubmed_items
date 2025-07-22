@@ -16,7 +16,7 @@ When we identified the bug in our retrieval process, we started attempting to id
 
 ## Citations
 ### Cite code as:
-McCumber, C. & Salami, M.O. (2025). Analysis to identify 199 PubMed items excluded from "Analyzing the consistency of retraction indexing" (1.0.0) [Python]. GitHub. URL NEEDED
+McCumber, C. & Salami, M.O. (2025). Analysis to identify 199 PubMed items excluded from "Analyzing the consistency of retraction indexing" (1.0.0) [Python]. GitHub. https://github.com/infoqualitylab/retraction_indexing_missing_pubmed_items
 
 ### Cite dataset as:
 McCumber, C. & Salami, M. O. (2025). An attempt to identify 199 PubMed items excluded from "Analyzing the consistency of retraction indexing" (Version 1) [Data set]. University of Illinois Urbana-Champaign Databank. DOI forthcoming.
