@@ -50,7 +50,7 @@ This project was developed using the virtual environment described in environmen
 ```
 
 ## Usage
-All referenced CSV files stored in dataset deposit, DOI forthcoming. Column descriptions also stored in dataset deposit.
+All referenced CSV files stored in dataset deposit, DOI: https://doi.org/10.13012/B2IDB-6684660_V1. Column descriptions also stored in dataset deposit.
 
 For each script referenced below, variables can be changed via a ```main()``` function at the bottom of the Python file.
 
